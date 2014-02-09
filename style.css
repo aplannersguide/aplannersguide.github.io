@@ -1,8 +1,13 @@
 body{
   width:43.75em;
-  font-size:1em;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 h1{
-  font-size:2em;
+  font-size:2.25em;
+}
+
+p{
+  font-size:1.5em;
 }
